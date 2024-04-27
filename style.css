@@ -21,6 +21,11 @@ a {
 
 }
 
-.line {
-    border-left: 100px solid black;
+.vl {
+    border-left: 6px black;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
 }
