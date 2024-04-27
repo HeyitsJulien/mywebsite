@@ -25,4 +25,9 @@ hr {
     border: 3px solid black;
     border-radius: 5px;
 }
+
+.vl {
+    border-left: 5px black;
+    height: 500px;
+}
     
