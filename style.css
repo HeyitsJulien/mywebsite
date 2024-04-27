@@ -22,5 +22,5 @@ a {
 }
 
 .line {
-    border-bottom: 1px solid black;
+    border-left: 100px solid black;
 }
