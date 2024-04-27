@@ -20,3 +20,7 @@ a {
     white-space: normal;
 
 }
+
+.line {
+    border-bottom: 1px solid black;
+}
