@@ -27,7 +27,11 @@ hr {
 }
 
 .vl {
-    border-left: 5px black;
-    height: 500px;
+    border-left: 2px solid #888;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -1px;
+    top: 0;
 }
     
