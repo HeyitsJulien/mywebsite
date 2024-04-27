@@ -28,8 +28,9 @@ hr {
 
 .vl {
     border-left: 6px solid #3a3a3a;
-    position: fixed;
-    top: 0;
-    bottom: 0;
+    height: 500px;
+    position: absolute;
     left: 20%;
+    margin-left: -3px;
+    top: 5;
 }
