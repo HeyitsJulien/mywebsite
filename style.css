@@ -26,13 +26,11 @@ hr {
     border-radius: 5px;
 }
 
-.container {
-    display: flex;
-}
-
 .vl {
-    border-left: 2px solid #3a3a3a;
+    border-left: 6px solid #3a3a3a;
     height: 100px;
-    flex-grow: 1;
+    position: absolute;
+    left: 20%;
+    margin-left: -3px;
+    top: 0;
 }
-    
