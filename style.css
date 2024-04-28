@@ -12,13 +12,6 @@ h1 {
     white-space: pre;
 }
 
-a {
-    color: white;
-    font-family: fredoka;
-    font-size: 60px;
-    text-align: center;
-    white-space: normal;
-}
 
 .line {
     border-top: 6px solid #3a3a3a; 
