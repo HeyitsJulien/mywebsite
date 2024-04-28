@@ -38,11 +38,6 @@ a {
     top: 185px; /* Adjust top position as needed */
 }
 
-/* Adjust left position for the second line */
-.vl:nth-child(1) {
-    left: 1010px; /* Left position of the first line */
-}
-
-.vl:nth-child(2) {
-    left: 1110px; /* Adjust the left position of the second line */;
+.vl-second {
+    left: 1050px; /* Adjust left position for the second line */
 }
