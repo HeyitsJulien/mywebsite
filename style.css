@@ -20,11 +20,13 @@ a {
     white-space: normal;
 }
 
-hr {
-    border: 3px solid black;
-    border-radius: 5px;
-
-}
+.line {
+    width: 53px;
+    height: 0;
+    border: 6px solid #3a3a3a;
+    margin: 3px;
+    display:inline-block;
+  }
 
 .vl {
     border-left: 6px solid #3a3a3a;
