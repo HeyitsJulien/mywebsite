@@ -12,7 +12,13 @@ h1 {
     white-space: pre;
 }
 
-
+p {
+    color: white;
+    font-family: fredoka;
+    font-size: 48;
+    text-align: center;
+    white-space: pre;
+}
 .line {
     border-top: 6px solid #3a3a3a; 
     width: 672px; 
@@ -23,14 +29,14 @@ h1 {
 
 
 .vl {
-    border-left: 6px solid #3a3a3a; /* Same color and width as the vertical line */
-    height: 2000px; /* Adjust height as needed */
+    border-left: 6px solid #3a3a3a; 
+    height: 2000px; 
     position: absolute;
-    left: 1010px; /* Adjust left position as needed */
+    left: 1010px; 
     margin-left: -3px;
-    top: 185px; /* Adjust top position as needed */
+    top: 185px; 
 }
 
 .vl-second {
-    left: 1682px; /* Adjust left position for the second line */
+    left: 1682px;
 }
