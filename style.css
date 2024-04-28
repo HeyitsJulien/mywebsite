@@ -30,10 +30,19 @@ a {
 
 
 .vl {
-    border-left: 6px solid #3a3a3a;
-    height: 2000px;
+    border-left: 6px solid #3a3a3a; /* Same color and width as the vertical line */
+    height: 2000px; /* Adjust height as needed */
     position: absolute;
-    left: 1010px;
+    left: 1010px; /* Adjust left position as needed */
     margin-left: -3px;
-    top: 185px;
+    top: 185px; /* Adjust top position as needed */
+}
+
+/* Adjust left position for the second line */
+.vl:nth-child(1) {
+    left: 1010px; /* Left position of the first line */
+}
+
+.vl:nth-child(2) {
+    left: 1110px; /* Adjust the left position of the second line */;
 }
