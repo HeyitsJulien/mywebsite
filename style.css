@@ -37,3 +37,12 @@ a {
     margin-left: -3px;
     top: 185px;
 }
+
+.vl {
+    border-right: 6px solid #3a3a3a;
+    height: 2000px;
+    position: absolute;
+    left: 1010px;
+    margin-left: -3px;
+    top: 185px;
+}
