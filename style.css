@@ -1,6 +1,5 @@
 body {
     background-color: #262626;
-    padding-bottom: 100;
 
 }
 
@@ -44,3 +43,9 @@ p {
 .vl-second {
     left: 1682px;
 }
+
+.container {
+    margin-top: 40px; /* Add space of 50px above the content */
+    margin-bottom: 1600px; /* Add space of 50px below the content */
+}
+
