@@ -11,6 +11,7 @@ h1 {
     font-size: 96px;
     text-align: center;
     white-space: pre;
+    margin-bottom: 5px; 
 }
 
 p {
@@ -18,9 +19,10 @@ p {
     font-family: fredoka;
     font-size: 24px;
     text-align: center;
-    margin-bottom: 300px;
     white-space: pre;
+    margin-top: -206px; 
 }
+
 .line {
     border-top: 6px solid #3a3a3a; 
     width: 672px; 
