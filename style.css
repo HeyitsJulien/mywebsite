@@ -31,6 +31,10 @@ p {
     left: 1010px; 
 }
 
+.second-line {
+    top: 360px;
+}
+
 .vl {
     border-left: 6px solid #3a3a3a; 
     height: 2000px; 
