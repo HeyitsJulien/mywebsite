@@ -29,25 +29,15 @@ p {
 }
 
 
-.container {
-    width: 90%; /* Set the width of the container */
-    margin: 0 auto; /* Center the container horizontally */
-    position: relative; /* Make the container a positioning context for absolute positioning */
-}
-
 .vl {
     border-left: 6px solid #3a3a3a; 
-    height: 2000px; /* Adjust height as needed */
+    height: 2000px; 
     position: absolute;
-    left: 50%; /* Position the vertical lines relative to the container */
-    transform: translateX(-50%); /* Center the vertical lines horizontally */
+    left: 1010px; 
     margin-left: -3px;
-    top: 185px; /* Adjust top position as needed */
+    top: 185px; 
 }
 
 .vl-second {
-    left: calc(50% + 672px); /* Adjust left position for the second line */
-    /* You can also use left: calc(1010px + 672px); if you prefer */
-    /* Or adjust the left position based on your container width and line spacing */
+    left: 1682px;
 }
-
