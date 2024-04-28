@@ -22,7 +22,7 @@ a {
 
 .line {
     border-top: 6px solid #3a3a3a; 
-    width: 675px; 
+    width: 670px; 
     position: absolute;
     top: 185px; 
     left: 1010px; 
@@ -39,5 +39,5 @@ a {
 }
 
 .vl-second {
-    left: 1685px; /* Adjust left position for the second line */
+    left: 1680px; /* Adjust left position for the second line */
 }
