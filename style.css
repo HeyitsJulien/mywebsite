@@ -28,11 +28,11 @@ p {
     width: 672px; 
     position: absolute;
     top: 160px; 
-    left: 1010px; 
+    left: 50vw; 
 }
 
 .second-line {
-    top: 2154px;
+    top: 60vw;
 }
 
 .vl {
