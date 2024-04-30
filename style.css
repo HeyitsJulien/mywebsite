@@ -27,12 +27,12 @@ p {
     border-top: 6px solid #3a3a3a; 
     width: 672px; 
     position: absolute;
-    top: 50vw; 
-    left: 50vw; 
+    top: 20vw; 
+    left: 30vw; 
 }
 
 .second-line {
-    top: 60vw;
+    top: 120vw;
 }
 
 .vl {
