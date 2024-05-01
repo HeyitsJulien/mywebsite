@@ -10,8 +10,8 @@ h1 {
     font-size: 96px;
     text-align: center;
     white-space: pre;
-    margin-top: -30px; 
-    margin-bottom: 105px;
+    margin-top: -2vw; 
+    margin-bottom: 6vw;
 }
 
 p {
@@ -20,32 +20,32 @@ p {
     font-size: 24px;
     text-align: center;
     white-space: pre;
-    margin-top: -200px; 
+    margin-top: -11vw; 
 }
 
 .line {
-    border-top: 6px solid #3a3a3a; 
+    border-top: 0.35vw solid #3a3a3a; 
     width: 35.6vw; 
     position: absolute;
     top: 8.5vw; 
-    left: 30.9vw; 
+    left: 31.4vw; 
 }
 
 .second-line {
-    top: 114.7vw;
+    top: 114.65vw;
 }
 
 .vl {
     border-left: 6px solid #3a3a3a; 
     height: 2000px; 
     position: absolute;
-    left: 30.9vw; 
+    left: 31.4vw; 
     margin-left: -3px;
     top: 160px; 
 }
 
 .vl-second {
-    left: 66.5vw;
+    left: 66.9vw;
 }
 
 .container {
